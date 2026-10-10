@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "454836786255",
+    "project_id": "bmcfinalsstudentnsbjctfirebase",
+    "storage_bucket": "bmcfinalsstudentnsbjctfirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454836786255:android:d45d036e40ec4ed82c863a",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_zHbg70AG3RrhLLMoRDMenwtWQ1LuDC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
